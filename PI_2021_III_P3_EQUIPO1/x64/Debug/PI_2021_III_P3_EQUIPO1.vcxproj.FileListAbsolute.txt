@@ -1,0 +1,7 @@
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI_2021_III_P3_EQUIPO1.vcxproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI2021IIIP3EQUIPO1.frmBiblioteca.resources
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI2021IIIP3EQUIPO1.frmCliente.resources
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI2021IIIP3EQUIPO1.frmLibro.resources
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI2021IIIP3EQUIPO1.frmListaLibros.resources
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI2021IIIP3EQUIPO1.frmPersona.resources
+C:\Users\elvir\Desktop\Biblioteca-master\Biblioteca-master\PI_2021_III_P3_EQUIPO1\x64\Debug\PI_2021_III_P3_EQUIPO1.vcxproj.GenerateResource.cache
