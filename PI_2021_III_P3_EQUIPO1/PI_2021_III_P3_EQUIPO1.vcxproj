@@ -122,13 +122,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Cliente.cpp" />
     <ClCompile Include="frmBiblioteca.cpp" />
     <ClCompile Include="frmCliente.cpp" />
     <ClCompile Include="frmLibro.cpp" />
     <ClCompile Include="frmListaLibros.cpp" />
     <ClCompile Include="frmPersona.cpp" />
+    <ClCompile Include="Libro.cpp" />
+    <ClCompile Include="Persona.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cliente.h" />
     <ClInclude Include="frmBiblioteca.h">
       <FileType>CppForm</FileType>
     </ClInclude>
@@ -144,6 +148,8 @@
     <ClInclude Include="frmPersona.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Libro.h" />
+    <ClInclude Include="Persona.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmBiblioteca.resx">
